@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Museum</string>
+    <string name="sejarah1">Museum Lampung telah dirintis sejak tahun 1975 oleh
+        Kepala Kantor Pembinaan Permuseuman Perwakilan Departemen Pendidikan dan Kebudayaan Provinsi Lampung di Tanjung Karang.
+        Wujud pembangunan fasilitas gedung pameran dan kantor baru dikerjaka  pada tahun anggaran 1978 / 1979, didasarkan pada keputusan Menteri
+        Pendidikan dan Kebudayaan Nomor : 064/P/1978 tanggal 30 Maret 1978, tentang Pengangkatan Pimpinan dan Bendaharawan Proyek Rehabilitasi
+        dan Perluasan Museum Lampung.</string>
+    <string name="sejarah2">Peletakan batu pertama pembangunan Museum Lampung dilakukan oleh Kepala bidang Permuseuman,
+        Sejarah dan Kepurbakalaan Kanwil Depdikbud Provinsi Lampung Drs. Supanggat pada tanggal 31 Juni 1978, di lokasi Jalan Teuku Umar No. 64
+        Gedongmeneng, sekarang menjadi Jalan H. Zainal Abidin Pagar Alam No. 64 Gedongmeneng Bandar Lampung.</string>
+    <string name="sejarah3">Pada tahun 1984 dengan pelaksanaan Purna Pugar Taman Purbakala Pugungraharjo yang dipusatkan di Museum Lampung.
+        Untuk memenuhi minat masyarakat yang ingin berkunjung, Kakanwil Depdikbud Provinsi Lampung menerbitkan Surat Edaran No. 0085/I.12/J/1986
+        tanggal 2 Januari 1986 tentang dibukanya Museum Lampung Setiap hari Sabtu.</string>
+    <string name="sejarah4">Selanjutnya, Tahun 1987 berdasarkan Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia
+        No. 0754/0/1987, Museum Lampung mendapat status Unit Pelaksana Teknis (UPT) Direktorat Jenderal Kebudayaan. Pada tanggal 24 September 1988,
+        bersamaan dengan peringatan Hari Aksara Internasional yang dipusatkan di PKOR Way Halim Museum Lampung diresmikan oleh Menteri Pendidikan dan
+        Kebudayaan Republik Indonesia Prof. DR. Fuad Hassan.</string>
+    <string name="sejarah5">Sementara itu, penambahan nama "Ruwa Jurai" untuk Museum Lampung ditetapkan melalui Surat Keputusan Menteri Pendidikan
+        dan Kebudayaan Republik Indonesia No. 0233/0/1990, tanggal 1 April 1990. Penambahan itu disesuaikan dengan logo Provinsi Lampung
+        "Sai Bumi Ruwa Jurai". </string>
+    <string name="sejarah6">Pada era otonomi daerah, berdasarkan Keputusan Gubernur Lampung Nomor 03 tahun 2001, tanggal 09 Februari 2001
+    status Museum Lampung beralih menjadi Unit Pelaksana Teknis Dinas (UPTD) dibawah Dinas Pendidikan Provinsi. Bulan Februari 2008
+    UPTD Museum Lampung beralih menjadi UPTD Dinas Kebudayaan dan Pariwisata Provinsi Lampung. Selanjutnya sejak Bulan November 2014 UPTD Museum
+    Lampung resmi menjadi UPTD Dinas Kebudayaan dan Pariwisata Provinsi Lampung.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Txt1">Sejarah UPTD Museum Lampung</string>
+    <string name="todo">TODO</string>
+</resources>
